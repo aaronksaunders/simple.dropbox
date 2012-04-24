@@ -8,4 +8,6 @@ Was trying to implement dropbox functionality in plain javascript and not used t
 
 Also please not the javascript file is minified because it is a work in progress, when completed and I have time to support it I will release the full source code.
 
-So... why am I postng it at all you might ask? Because some requested just this functionality so I figured I would try and help out
+So... why am I postng it at all you might ask? Because some requested just this functionality so I figured I would try and help out.
+
+[Download the source code here](https://github.com/aaronksaunders/simple.dropbox/downloads)
